@@ -1,6 +1,7 @@
 ---
 created: 2022-10-11T08:58:41-03:00
-modified: 2022-10-11T10:00:16-03:00
+modified: 2022-10-14T05:46:24-03:00
+type: Journal
 ---
 
 # Jornal do Gildo
@@ -41,4 +42,17 @@ Foram 3 jogos para cada turma, onde os classificados foram separados por 2 jogos
 ![Image](./c9538234be466eb5664b4c9dd21fb2d0.jpg) 
 
 ---
-No dia seguinte (01/10/2022). Aconteceu o Queimado
+No dia seguinte (01/10/2022). Aconteceu o Queimado Feminino
+
+---
+![Image](./f7ba086f409bd8107ff68d476e6716d3.jpg) 
+
+---
+
+Logo em seguida o queimado masculino, que aconteceu as 9:30
+
+---
+
+![Image](./07de53ced8cb02264324acddb3f0b4df.jpg) 
+
+---
