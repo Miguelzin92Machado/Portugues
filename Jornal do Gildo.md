@@ -1,6 +1,6 @@
 ---
 created: 2022-10-11T08:58:41-03:00
-modified: 2022-10-14T05:46:24-03:00
+modified: 2022-10-14T06:03:30-03:00
 type: Journal
 ---
 
@@ -9,7 +9,7 @@ type: Journal
 # Jogos internos do Gildo Veríssimo
 ---
 
-Os jogos internos começaram na última quarta, quinta e sexta feira. (31/09/2022) (01/10/2022) (02/10/2022)
+Os jogos internos começaram na última Quarta, Quinta e Sexta-feira. (31/09/2022) (01/10/2022) (02/10/2022)
 
 ---
 
@@ -56,3 +56,7 @@ Logo em seguida o queimado masculino, que aconteceu as 9:30
 ![Image](./07de53ced8cb02264324acddb3f0b4df.jpg) 
 
 ---
+Também aconteceu os jogos que não fazem exercícios físicos, mais sim, mentalmente. Como o dominó é a dama que também ocorrerão, não só esses mais todos os jogos são muito bons para desenvolver raciocínio lógico e a tomada de decisões.
+
+---
+Bom o jornal do Gildo Veríssimo termina por aqui, até mais !.
